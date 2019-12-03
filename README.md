@@ -1,8 +1,9 @@
 # Daily Coding Problem
 
-Solutions to problems sent by dailycodingproblem.com
-[Pipeline for solutions](https://github.com/guthy2010/daily-coding-answers/actions?query=workflow%3A%22Daily+Coding+Problem+Solutions%22)
+Solutions to problems sent by dailycodingproblem.com:
+
 ---
+[Pipeline for solutions](https://github.com/guthy2010/daily-coding-answers/actions?query=workflow%3A%22Daily+Coding+Problem+Solutions%22)
 
 #### Problem 1
 
