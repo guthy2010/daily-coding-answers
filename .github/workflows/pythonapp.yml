@@ -17,5 +17,8 @@ jobs:
       run: |
           for script in $(ls solutions/)
           do
+          echo "\n______________________"
+          echo "Running $script"
+          echo "----------------------"
           python solutions/$script
           done
