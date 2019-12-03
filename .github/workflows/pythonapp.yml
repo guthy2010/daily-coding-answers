@@ -15,4 +15,6 @@ jobs:
         python-version: 3.7
     - name: Run Pthon Code
       run: |
+          pwd
+          ls
           python .solutions/problem01.py
