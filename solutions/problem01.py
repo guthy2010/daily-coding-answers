@@ -16,4 +16,5 @@ def SumFinder(k,num_list):
         sum_finder_set.add(k-num)
 
 num_list = [10, 15, 3, 7]
-k = 20
+k = 17
+print(SumFinder(k,num_list))
